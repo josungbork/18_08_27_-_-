@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c7d774fa-e248-48fb-92e7-d3c53b77eccb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spp/2018_08_27_개발시작_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/2018_08_27_개발시작_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spp/pp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spp/pp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spp/pp4.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spp/pp5.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spp/pp6.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,41 +61,44 @@
     <session id="-499448611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="9" />
+          <entry key="py" value="343" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="352" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spp/2018_08_27_개발시작_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="682">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -97,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spp/pp2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="31">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -145,14 +154,19 @@
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_pattern-recognition-and-machine-learning-master.zip/pattern-recognition-and-machine-learning-master/chapter2-pattern-recognition/01_data_generation.py" />
         <option value="$PROJECT_DIR$/파이참_소스트리_깃허브_연결 폴더/2018_08_27_개발시작_1.py" />
         <option value="$PROJECT_DIR$/파이참_소스트리_깃허브_연결 폴더/2018_08_27_개발시작_2.py" />
+        <option value="$PROJECT_DIR$/spp/pp3.py" />
+        <option value="$PROJECT_DIR$/spp/pp4.py" />
+        <option value="$PROJECT_DIR$/spp/pp5.py" />
+        <option value="$PROJECT_DIR$/spp/pp6.py" />
+        <option value="$PROJECT_DIR$/spp/pp2.py" />
+        <option value="$PROJECT_DIR$/spp/2018_08_27_개발시작_1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="778" />
-    <option name="width" value="2800" />
-    <option name="height" value="2218" />
+    <option name="x" value="-18" />
+    <option name="width" value="4250" />
+    <option name="height" value="3610" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -432,22 +446,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="681" width="1400" height="1109" extended-state="0" />
+    <frame x="-9" y="0" width="2125" height="1805" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16323599" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32958034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39918116" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23490736" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398685" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32958034" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3285568" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32958034" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32958034" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32934847" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -465,6 +480,17 @@
     <MESSAGE value="연습중 입니다3" />
     <MESSAGE value="개발배우는중1" />
     <option name="LAST_COMMIT_MESSAGE" value="개발배우는중1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/이참.py" />
@@ -523,20 +549,26 @@
     <entry file="file://$PROJECT_DIR$/spp/pp4.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/spp/pp5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spp/pp6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/spp/pp3.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spp/pp2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="31">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spp/2018_08_27_개발시작_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="682">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

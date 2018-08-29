@@ -19,6 +19,20 @@ print('-------------------------------------------------------------------------
 ######-----------------------------------------------------------------------------------------------------######
 print('/////////////////')
 print("개발_현장1")
+print('')
+
+print("  ##오늘 _날자_ 구하는함수 구글에서 !파이썬 오늘날자! 로 검색해서 찿았음")
+import datetime
+today=datetime.datetime.today().strftime("%y%m%d")
+print('today=datetime.datetime.today().strftime("%y%m%d")')
+print("실행결과: ",today)
+print('')
+
+print("  ###오늘 _날자+시간_ 구하는함수 구글에서 !파이썬 오늘날자! 로 검색해서 찿았음. ")
+import datetime
+todaytime = datetime.datetime.now()
+print('todaytime = datetime.datetime.now()')
+print ("실행결과: ",todaytime)
 
 
 
