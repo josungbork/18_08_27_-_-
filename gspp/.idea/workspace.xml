@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7d774fa-e248-48fb-92e7-d3c53b77eccb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spp/2018_08_27_개발시작_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/2018_08_27_개발시작_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spp/pp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spp/pp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spp/pp4.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spp/pp5.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spp/pp6.py" beforeDir="false" afterPath="$PROJECT_DIR$/spp/pp6.py" afterDir="false" />
-    </list>
+    <list default="true" id="c7d774fa-e248-48fb-92e7-d3c53b77eccb" name="Default Changelist" comment="개발배우는중1" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -433,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535435595496</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="개발배우는중1">
+      <created>1535525698526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1535525698526</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -447,19 +446,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="2125" height="1805" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16323599" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23490736" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23490736" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398685" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32958034" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3285568" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.328153" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32958034" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32934847" />
@@ -480,6 +478,7 @@
     <MESSAGE value="연습중 입니다3" />
     <MESSAGE value="개발배우는중1" />
     <option name="LAST_COMMIT_MESSAGE" value="개발배우는중1" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
